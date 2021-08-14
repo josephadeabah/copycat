@@ -1,0 +1,2 @@
+# copycat
+Learning React, codecademy
